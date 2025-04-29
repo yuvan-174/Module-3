@@ -21,6 +21,6 @@ else:
 
 ## Output
 ![image](https://github.com/user-attachments/assets/fecc2b29-1185-4cb2-abf9-a67ea298df2d)
-
+```
 ## Result
  Thus, the program has been successfully executed.
